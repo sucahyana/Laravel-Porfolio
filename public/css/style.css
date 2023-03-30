@@ -1,0 +1,15 @@
+#logo{
+    font-family: "Config Condensed Medium";
+    font-size: 100px;
+    font-weight: lighter;
+
+}
+
+.linkHref{
+    font-family: "Typewriter_Condensed";
+    font-size: 10px
+
+}
+.circle {
+    transition: all 0.3s ease-in-out;
+}
